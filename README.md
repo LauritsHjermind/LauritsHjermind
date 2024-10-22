@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am currently doing my Master in mechanical engineering at Aarhus University in Denmark.
 <!--
 **LauritsHjermind/LauritsHjermind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
